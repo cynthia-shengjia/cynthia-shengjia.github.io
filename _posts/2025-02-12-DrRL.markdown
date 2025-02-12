@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+date:   2025-02-12 15:33:59 +20:00
+image: /images/DrRL.jpg
+categories: research
+author: "<strong>Shengjia Zhang</strong>"
+authors: "Jiawei Chen, Changdong Li, Sheng Zhou, Qihao Shi, Yan Feng, Chun Chen, Can Wang"
+venue: "arXiv"
+arxiv: 
+code: https://github.com/cynthia-shengjia/AAAI-2025-DrRL
+---
+We propose a new robust recommendation loss. 
