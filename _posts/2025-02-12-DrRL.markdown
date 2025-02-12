@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Flexible Techniques for Differentiable Rendering with 3D Gaussians"
+title:  "Advancing Loss Functions in Recommender Systems: A Comparative Study with a Rényi Divergence-Based Solution"
 date:   2025-02-12 15:33:59 +20:00
 image: /images/DrRL.png
 categories: research
