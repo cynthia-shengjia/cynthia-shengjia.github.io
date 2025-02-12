@@ -6,7 +6,7 @@ image: /images/DrRL.png
 categories: research
 author: "Shengjia Zhang"
 authors: "<strong>Shengjia Zhang</strong>, Jiawei Chen, Changdong Li, Sheng Zhou, Qihao Shi, Yan Feng, Chun Chen, Can Wang"
-venue: "arXiv"
+venue: "AAAI"
 arxiv: 
 code: https://github.com/cynthia-shengjia/AAAI-2025-DrRL
 ---
