@@ -6,8 +6,8 @@ image: /images/DrRL.png
 categories: research
 author: "Shengjia Zhang"
 authors: "<strong>Shengjia Zhang</strong>, Jiawei Chen, Changdong Li, Sheng Zhou, Qihao Shi, Yan Feng, Chun Chen, Can Wang"
-venue: "AAAI"
-arxiv: 
+venue: "AAAI 2025"
+arxiv: https://arxiv.org/abs/2506.15120
 code: https://github.com/cynthia-shengjia/AAAI-2025-DrRL
 ---
-We propose a new robust recommendation loss. 
+We propose a new robust recommendation loss function DrRL, tailored for recommender systems. 
